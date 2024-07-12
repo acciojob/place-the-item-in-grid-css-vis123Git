@@ -1,2 +1,6 @@
 
-/* Your CSS Code here. */
+.holder{
+  display: grid;
+  grid-template-columns: auto auto auto;
+	
+}
